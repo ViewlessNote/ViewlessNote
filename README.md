@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **C#, C++, Networking, PCB Design, Frontend/Backend Development**
 
-- 📫 How to reach me **Jonas@Viewless.Cloud**
+- 📫 How to reach me **mail@Viewless.Cloud**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
